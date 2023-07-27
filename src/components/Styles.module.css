@@ -1,0 +1,40 @@
+
+
+
+.hpheader {
+    border: 2px solid blue;
+  }
+
+  .epheader {
+    border: 2px solid blue;
+  }
+
+  .searchBar {
+    border: 2px solid rgb(42, 139, 74);
+  }
+
+  .employeelist {
+    border: 2px solid rgb(199, 74, 208);
+    width: 300px;
+  }
+  .employeelistitem {
+    border: 2px solid rgb(181, 49, 51);
+   
+  }
+
+  ul {
+    border: 2px solid rgb(181, 49, 51);
+    display: flex;
+   
+  }
+
+  img {
+   
+    width: 100px;
+    height: 100px;
+  }
+
+  .Images {
+    display: flex;
+    flex-direction: column;
+  }

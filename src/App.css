@@ -1,6 +1,16 @@
 .App {
+  width: 700px;
+  display: flex;
+  justify-content: center;
   text-align: center;
+  gap: 30px;
+  border: 2px solid black;
+  margin-top: 40px;
+  margin-left: 250px;
+
 }
+
+
 
 .App-logo {
   height: 40vmin;
