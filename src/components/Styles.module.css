@@ -34,7 +34,12 @@
     height: 100px;
   }
 
-  .Images {
+  .Titles {
     display: flex;
     flex-direction: column;
+  }
+
+  .EmployeePage {
+    width: 300px;
+    
   }
